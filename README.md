@@ -36,5 +36,15 @@ Función logaritmo base 10
 
 De forma general el pograma consta de diversas funciones donde se detalla la operación correspondiente resaltando de entre esas las siguientes: 
 En primera instancia se definieron incialmente variables de los botones con el id que se le asigno a cada uno, de igual forma con los texview una constante con el valor de pi.
-A continuación se asignaron a cada variable el valor que le correspondia en el botón asignado. 
-De ahi se prosigio a 
+A continuación se asignaron a cada variable el valor que le correspondia en el botón asignado, como se muestra a continuación:
+![image](https://user-images.githubusercontent.com/66123679/130313701-8c10c785-380c-4a94-b3bb-41035f0ce486.png)
+
+De ahi se prosigio a definir cada operacion en la asignación correspondiente por ejemplo para las funciones trigonometricas se definio que al presionar igual los valores entraban en un condicional donde dependiendo de la operación se asignaba la operación haciendo uso de las librerias matematicas "Math" como se muestra a continuación:
+
+![image](https://user-images.githubusercontent.com/66123679/130313727-13a4cb82-4a28-4252-b567-d01f39282c06.png)
+
+Asi mismo se definio una función externa para el calculo del factor de un número dando como resultado la siguiente función:
+![image](https://user-images.githubusercontent.com/66123679/130313755-269547d8-0205-47c6-b247-8fd1fd4ad59b.png)
+
+De igual forma para las operaciones de borrado se definieron como se debia limpiar la pantalla, dando como resultado:
+![image](https://user-images.githubusercontent.com/66123679/130313710-852fd5d4-66bc-40ca-a7a6-6c9e60bae19d.png)
